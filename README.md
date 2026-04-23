@@ -17,6 +17,8 @@ Este repositório tem como objetivo centralizar **todos os trabalhos, projetos, 
 
 Aqui está documentada minha evolução técnica, analítica e estratégica ao longo do curso, contemplando:
 
+-
+
 Este repositório funciona como um **portfólio técnico estruturado**, evidenciando domínio progressivo das competências exigidas na formação.
 
 ---
