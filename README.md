@@ -17,17 +17,6 @@ Este repositório tem como objetivo centralizar **todos os trabalhos, projetos, 
 
 Aqui está documentada minha evolução técnica, analítica e estratégica ao longo do curso, contemplando:
 
-- Projetos acadêmicos (PBLs, Global Solutions, Challenges)
-- Implementações práticas de IA e Machine Learning
-- Modelagem de dados e engenharia de dados
-- Experimentos com Deep Learning
-- Aplicações com IA Generativa
-- Integrações com IoT e sensores
-- Documentações técnicas completas
-- Arquiteturas de solução
-- Estudos dirigidos e explorações técnicas
-- ...
-
 Este repositório funciona como um **portfólio técnico estruturado**, evidenciando domínio progressivo das competências exigidas na formação.
 
 ---
